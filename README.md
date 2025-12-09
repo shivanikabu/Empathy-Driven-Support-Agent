@@ -5,7 +5,6 @@ A sophisticated multi-agent system built with Streamlit that orchestrates AI age
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
 ![AWS](https://img.shields.io/badge/AWS-Bedrock-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🌟 Features
 
@@ -392,10 +391,6 @@ Contributions are welcome! Please follow these steps:
 - Add docstrings to all functions
 - Include type hints where possible
 - Write unit tests for new features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
