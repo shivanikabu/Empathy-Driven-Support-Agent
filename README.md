@@ -1,4 +1,4 @@
-# 🤖 AI Agents Enterprise Toolkit
+# 🤖 Empathy Driven Support Agent
 
 A sophisticated multi-agent system built with Streamlit that orchestrates AI agents for intelligent query processing, document retrieval (RAG), emotional intelligence, and quality assurance. The system dynamically routes queries through different agent architectures based on user persona detection.
 
@@ -72,7 +72,7 @@ Planner → Orchestration → RAG → Best Practices → Reflector → Response 
 
 ### Project Structure
 ```
-ai-agents-toolkit/
+Empathy-Driven-Support-Agent/
 │
 ├── app.py                          # Main Streamlit application
 ├── backend.py                      # Agent orchestration backend
@@ -130,8 +130,8 @@ ai-agents-toolkit/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shivanikabu/ai-agents-toolkit.git
-cd ai-agents-toolkit
+git clone https://github.com/shivanikabu/Empathy-Driven-Support-Agent.git
+cd Empathy-Driven-Support-Agent
 ```
 
 2. **Create virtual environment**
@@ -412,7 +412,7 @@ For questions or support, please open an issue on GitHub or contact:
 - **Project Lead**: [Shivani Kabu]
 - **Team Member**: [Nikhil Khandelwal]
 - **Email** - [shivani.dhar@gmail.com](mailto:shivani.dhar@gmail.com)
-- **Project Link**: [https://github.com/shivanikabu/ai-agents-toolkit](https://github.com/shivanikabu/ai-agents-toolkit)
+- **Project Link**: [https://github.com/shivanikabu/Empathy-Driven-Support-Agent](https://github.com/shivanikabu/Empathy-Driven-Support-Agent.git)
 
 
 
