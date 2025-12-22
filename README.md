@@ -382,7 +382,7 @@ Contributions are welcome! Please follow these steps:
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub or contact:
-- **Team Members**: [Shivani Kabu and Nikhil Khandelwal
+- **Team Members**: Shivani Kabu and Nikhil Khandelwal
 - **Email** - [shivani.kabu@gmail.com](mailto:shivani.kabu@gmail.com)
 - **Project Link**: [https://github.com/shivanikabu/Empathy-Driven-Support-Agent](https://github.com/shivanikabu/Empathy-Driven-Support-Agent.git)
 
