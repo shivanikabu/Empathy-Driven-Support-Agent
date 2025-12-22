@@ -251,28 +251,6 @@ Response includes: Detailed steps + warnings + best practices
 - Persona sensitivity and conversational coherence scoring
 - Identify optimal trajectory for different query types
 
-## 🧪 Testing
-
-### Manual Testing
-```bash
-# Test individual modules
-python -c "from agents.planner_agent import PlannerAgent; print('✓ Planner Agent')"
-python -c "from services.aws_service import AWSService; print('✓ AWS Service')"
-python -c "from models.agent_models import PlannerResponse; print('✓ Models')"
-```
-
-### Unit Tests (Optional)
-```bash
-# Install pytest
-pip install pytest pytest-cov
-
-# Run tests
-pytest tests/
-
-# Run with coverage
-pytest --cov=agents --cov=services tests/
-```
-
 ## 🔍 Performance Metrics Explained
 
 ### Trajectory Completion Rate
@@ -404,25 +382,10 @@ Contributions are welcome! Please follow these steps:
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub or contact:
-- **Project Lead**: [Shivani Kabu]
-- **Team Member**: [Nikhil Khandelwal]
+- **Team Members**: [Shivani Kabu and Nikhil Khandelwal
 - **Email** - [shivani.kabu@gmail.com](mailto:shivani.kabu@gmail.com)
 - **Project Link**: [https://github.com/shivanikabu/Empathy-Driven-Support-Agent](https://github.com/shivanikabu/Empathy-Driven-Support-Agent.git)
 
-
-
-## 🗺️ Roadmap
-
-- [ ] Add support for more LLM providers (OpenAI, Cohere)
-- [ ] Implement multi-document conversation memory
-- [ ] Add voice input/output capabilities
-- [ ] Create Docker deployment option
-- [ ] Add automated testing suite
-- [ ] Implement user authentication
-- [ ] Add support for more document formats (DOCX, TXT, HTML)
-- [ ] Create API endpoints for programmatic access
-- [ ] Add multi-language support
-- [ ] Implement advanced caching strategies
 
 ## ⭐ Star History
 
